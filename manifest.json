@@ -1,0 +1,16 @@
+{
+  "name": "TS — Personal OS",
+  "short_name": "TS",
+  "description": "A personal operating system for tasks, habits, goals, study, money and insights.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080b0f",
+  "theme_color": "#080b0f",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
